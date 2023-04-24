@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thụ</h1>
-<h3 align="center">A passionate mobile developer from Viet Nam</h3>
+<h3 align="center">A dedicated Flutter Developer passionate about delivering the best value to clients and partners. Contact me for any inquiries or further information.</h3>
 
 <p align="left">
 </p>
